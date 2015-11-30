@@ -1,0 +1,11 @@
+
+  此网站使用Dreamwaver开发，分为中文及英文两个部分，使用js技术。
+  中文网站在 TongTaiWax\Templates文件夹中，使用了此目录下的Template模板，再根据各个不同
+产品生成不同页面。
+  英文网站在 TongTaiWax\Templates\english\Templates文件夹中，使用了 TongTaiWax\Templates
+文件夹下的EnglishTemplate.dwt模板，再根据各个不同产品生成不同页面。
+   
+   另外：TongTaiWax\Templates文件夹下有一个没有使用的模板EngTemplate.dwt为测试使用，在正
+式运行时应该没有具体功效，但是不建议删除。
+
+                                                              2012.2.12  HX
